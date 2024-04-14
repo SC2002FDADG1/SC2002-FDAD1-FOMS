@@ -1,16 +1,8 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package com.mycompany.paymentsystem;
 
 import com.mycompany.paymentsystem.PaymentType.Payment_Availability;
 import java.util.ArrayList;
 
-/**
- *
- * @author dunglai
- */
 public class DisplayPayment 
 {
     public void displayPayments( ArrayList<PaymentType> array  )
