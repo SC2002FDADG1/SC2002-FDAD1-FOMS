@@ -2,7 +2,7 @@
 #Fastfood ordering and management System (FOMS)
 
 ##Contributers:
-- Devlin Nathan Waluja [@devlinwaluja](www.github.com/devlinwaluja)
+- Devlin Nathan Waluja [@devlinwaluja](https://github.com/devlinwaluja)
 - Lim Jun Long [@mrbeastok](www.github.com/mrbeastok)
 - Wei Yew Teo [@tweiyew](www.github.com/tweiywe)
 - Ngyuen Viet Dung [@DungGojo](www.github.com/DungGojo)
