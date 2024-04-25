@@ -47,9 +47,6 @@ public class Customer{
                 setCustomerOption(CustomerType.CHECK_STATUS);
                 System.out.println("Redirecting you to the order status portal...");
         }
-
-        // Implement set branch!
-        findBranch()
         
     }
     
