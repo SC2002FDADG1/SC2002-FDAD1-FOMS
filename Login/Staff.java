@@ -1,5 +1,8 @@
 package LoginSystem;
-package StaffSystem.StaffAccountController;
+
+import StaffSystem.StaffAccount;
+import StaffSystem.StaffAccountList;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -35,11 +38,14 @@ public class Staff {
         scanner.close();
     }
 
-    public int checkAttempt(){ // returns 1 if authentication passed, 0 if failed
-        for (int i = 0; i < StaffSystem.StaffAccountController.StaffAccount.size(); i++){
-            String current = StaffSystem.StaffAccountController.StaffAccount.get(i);
-            if (current.equals(getLoginIDAttempt())){
-                if (current.equals(getPasswordAttempt())){
+    public int checkAttempt() throws IOException{ 
+        StaffAccountList sal = new StaffAccountList() ;
+        ArrayList<StaffAccount> arr = sal.getstaffaccountlist() ;
+        for (int i = 0; i < arr.size(); i++)
+        {
+            if (arr.get(i).getName().equals(getLoginIDAttempt()))
+            {
+                if (arr.get(i).getPassword().equals(getPasswordAttempt())){
                     return 1;
                 }
                 else{
