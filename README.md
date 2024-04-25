@@ -7,5 +7,5 @@
 |----------------------|--------------------------------------------------|----------------------|
 | Devlin Nathan Waluja | [@devlinwaluja](https://github.com/devlinwaluja) | U2320897G            |
 | Lim Jun Jie          | [@mrbeastok](https://github.com/mrbeastok)       | U2321544A            |
-| Wei Yew Yeo          | [@tweiyew](https://github.com/tweiywe)           | U2322326G            |
+| Wei Yew Teo          | [@tweiyew](https://github.com/tweiywe)           | U2322326G            |
 | Nguyen Viet Dung     | [@DungGojo](https://github.com/DungGojo)         | U2323122H            |
