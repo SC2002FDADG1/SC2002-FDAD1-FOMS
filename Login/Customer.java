@@ -7,6 +7,9 @@ public class Customer{
     private CustomerType customerOption;
     private BranchInfo branch;
 
+    public void Customer(BranchInfo branch){
+        this.branch = branch;
+    }
 
     public void setBranch(BranchInfo branch){
         this.branch = branch;
