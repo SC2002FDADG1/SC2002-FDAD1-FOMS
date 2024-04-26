@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"BranchSystem","l":"BranchAvailability"},{"p":"BranchSystem","l":"BranchData"},{"p":"BranchSystem","l":"BranchInfo"},{"p":"BranchSystem","l":"BranchList"},{"p":"BranchSystem","l":"BranchOpenList"}];updateSearchResults();
