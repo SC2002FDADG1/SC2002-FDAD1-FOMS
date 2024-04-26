@@ -14,7 +14,7 @@ public class EditStaffAccount
         StaffAccountList sl = new StaffAccountList() ;
         ArrayList<StaffAccount> newstaffaccountlist = sl.getstaffaccountlist() ;
         
-        System.out.println("Enter the name that you want to remove:") ;
+        System.out.println("Enter the name that you want to edit account:") ;
         String name = sc.nextLine() ;
         int control = 0 ;
         
