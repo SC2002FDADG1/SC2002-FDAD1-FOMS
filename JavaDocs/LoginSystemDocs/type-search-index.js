@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"LoginSystem","l":"Customer"},{"p":"LoginSystem","l":"CustomerType"},{"p":"LoginSystem","l":"Login"},{"p":"LoginSystem","l":"LoginUser"},{"p":"LoginSystem","l":"OrderIDValidator"},{"p":"LoginSystem","l":"StaffLogin"}];updateSearchResults();

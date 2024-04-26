@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"FoodSystem","l":"Food.Category"},{"p":"FoodSystem","l":"Food"},{"p":"FoodSystem","l":"Food.FoodAvailability"},{"p":"FoodSystem","l":"FoodOrder"},{"p":"FoodSystem","l":"Menu"},{"p":"FoodSystem","l":"MenuData"}];updateSearchResults();
